@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Carsten134/Carsten134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Carsten, and I'm a Data Science student based in Germany 😄. 
+I'm a Data Science student based in Germany.
+
+Currently teaching at TU-Dortmund and working on the project: [social (in)justice in the energy transition](https://www.oeko.de/news/pressemeldungen/projektstart-mehr-gerechtigkeit-in-der-energiewende/).
+
+Also doing my Master's thesis in a resampling technique for spatial spectral densities building on the [work](https://projecteuclid.org/journals/bernoulli/volume-21/issue-2/Testing-equality-of-spectral-densities-using-randomization-techniques/10.3150/13-BEJ584.full?tab=ArticleLink) of my supervisor, [Prof. Jentsch](https://lwus.statistik.tu-dortmund.de/lehrstuhl/arbeitsgruppe/jentsch/). It aims to improve performance for small samples.
+
